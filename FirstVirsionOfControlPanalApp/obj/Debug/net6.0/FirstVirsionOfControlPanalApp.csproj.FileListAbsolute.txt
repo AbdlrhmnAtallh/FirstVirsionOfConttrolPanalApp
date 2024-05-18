@@ -1,0 +1,15 @@
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\bin\Debug\net6.0\FirstVirsionOfControlPanalApp.exe
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\bin\Debug\net6.0\FirstVirsionOfControlPanalApp.deps.json
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\bin\Debug\net6.0\FirstVirsionOfControlPanalApp.runtimeconfig.json
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\bin\Debug\net6.0\FirstVirsionOfControlPanalApp.dll
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\bin\Debug\net6.0\FirstVirsionOfControlPanalApp.pdb
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\FirstVirsionOfControlPanalApp.csproj.AssemblyReference.cache
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\FirstVirsionOfControlPanalApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\FirstVirsionOfControlPanalApp.AssemblyInfoInputs.cache
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\FirstVirsionOfControlPanalApp.AssemblyInfo.cs
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\FirstVirsionOfControlPanalApp.csproj.CoreCompileInputs.cache
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\FirstVirsionOfControlPanalApp.dll
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\refint\FirstVirsionOfControlPanalApp.dll
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\FirstVirsionOfControlPanalApp.pdb
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\FirstVirsionOfControlPanalApp.genruntimeconfig.cache
+F:\Work_Space\C#Package\FirstVirsionOfControlPanalApp\FirstVirsionOfControlPanalApp\obj\Debug\net6.0\ref\FirstVirsionOfControlPanalApp.dll
